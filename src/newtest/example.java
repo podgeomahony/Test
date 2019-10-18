@@ -9,15 +9,9 @@ package newtest;
  *
  * @author 117413984
  */
-public class NewTest {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        
-        
-        // TODO code application logic here
-    }
+public class example {
+    int x = 0;
+    int y = 0;
+            
     
 }
